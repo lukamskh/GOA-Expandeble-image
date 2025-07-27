@@ -20,10 +20,6 @@ body {
   width: 80px;
   border-radius: 9999px;
 }
-.container img:first-child {
-  width: 400px;
-  border-radius: 1.5rem;
-}
 .container img.expanded {
   width: 400px;
   border-radius: 1.5rem;
